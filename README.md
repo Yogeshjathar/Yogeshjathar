@@ -15,7 +15,6 @@
 * 💻 Strong in **Java, Spring Boot, Microservices Architecture**
 * ☁️ Google Cloud Certified Associate Cloud Engineer
 * 🧠 Solved **175+ DSA Problems**
-* 🎯 Goal: Crack top product-based companies
 
 ---
 
