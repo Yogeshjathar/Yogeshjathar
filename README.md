@@ -47,11 +47,12 @@
 
 ## 📊 GitHub Stats
 
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeshjathar\&show_icons=true\&theme=tokyonight)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeshjathar&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshjathar\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshjathar&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yogeshjathar\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yogeshjathar&theme=tokyonight)
+
 
 ---
 
