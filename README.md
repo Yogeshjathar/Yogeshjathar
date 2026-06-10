@@ -86,7 +86,7 @@
 ## 🏆 Achievements
 
 * ✅ Google Cloud Certified Associate Cloud Engineer
-* ✅ Solved 175+ DSA problems
+* ✅ Solved 250+ DSA problems
 * ✅ Built production-ready microservices projects
 
 ---
