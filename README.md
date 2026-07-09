@@ -14,7 +14,7 @@
 * 🌱 Learning **System Design, Kubernetes, Kafka, and DevOps**
 * 💻 Strong in **Java, Spring Boot, Microservices Architecture**
 * ☁️ Google Cloud Certified Associate Cloud Engineer
-* 🧠 Solved **175+ DSA Problems**
+* 🧠 Solved **250+ DSA Problems**
 
 ---
 
